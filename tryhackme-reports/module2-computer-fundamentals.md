@@ -20,24 +20,24 @@
 
 ### Client–Server Basics
 - Client sends requests
-- Server processes and responds
+- Server processes and responds (Examples: browser → website, phone → backend API)
 - Real-world examples (websites, apps)
+- Important for understanding web hacking
 
 ### Virtualisation Basics
 - Virtual machines (like your Kali VM)
 - Hypervisors (VirtualBox)
 - Why virtualisation is used in cybersecurity
+- used for safe hacking labs
 
 ### Cloud Computing Fundamentals
 - IaaS, PaaS, SaaS
 - Public vs private vs hybrid cloud
 - Why cloud matters in modern security
+- Cloud computing is huge in modern pentesting
 
 ## What I Learned
 - How computer components interact
 - Why virtual machines are essential for hacking labs
 - How client–server communication works
 - Basics of cloud services and security considerations
-
-## Screenshots
-(Add later)
