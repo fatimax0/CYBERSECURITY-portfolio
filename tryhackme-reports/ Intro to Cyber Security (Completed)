@@ -1,0 +1,57 @@
+# TryHackMe – Intro to Cyber Security (Completed)
+
+## Overview
+This learning path introduced foundational cybersecurity concepts, including operating systems, software basics, networking fundamentals, web technologies, and core security principles.
+
+## Modules Completed
+### Module 1: Introduction to Cyber Security
+- Cybersecurity basics
+- Threats and risks
+- Real-world examples
+
+### Module 2: Computer Fundamentals
+- Inside a computer system
+- Computer types
+- Client–server basics
+- Virtualisation basics
+- Cloud computing fundamentals
+
+### Module 3: Operating Systems Basics
+- Windows basics
+- Linux CLI basics
+- Windows CLI basics
+
+### Module 4: Software Basics
+- Data representation
+- Data encoding
+- Python demo
+- JavaScript demo
+
+### Module 5: Network Fundamentals
+- What is networking?
+- Intro to LAN
+- OSI model
+
+### Module 6: How the Web Works
+- DNS in detail
+- HTTP in detail
+- How websites work
+
+### Module 7: Attacks and Defenses
+- CIA triad
+- Cryptography concepts
+- Become a hacker (offensive basics)
+- Become a defender (defensive basics)
+
+## What I Learned
+- Core cybersecurity principles
+- How operating systems work
+- Basics of networking and the OSI model
+- How websites and protocols function
+- Introductory offensive and defensive security concepts
+
+## Next Steps
+- Network Fundamentals (hands-on)
+- Linux Fundamentals
+- Introduction to Pentesting
+- Offensive Security Path
