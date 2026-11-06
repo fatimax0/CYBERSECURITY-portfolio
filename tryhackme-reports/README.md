@@ -1,1 +1,0 @@
-- [TryHackMe SOC Level 1 – Suspected DNS exfiltration investigation](soc-level-1.md)This folder contains my TryHackMe reports.
